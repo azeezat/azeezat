@@ -4,7 +4,7 @@
 
 My name is Azeezat Raheem. I am a fullstack software engineer with over three years work experience. I was born in Nigeria. I had my Bachelor's in Systems Engineering from the University of Lagos, Nigeria.
 
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
                                                                                 
 - 🔭 I’m currently working on a software product in the Nigerian aviation sector.
 - 👯 I’m looking to collaborate on open source javascript projects.
