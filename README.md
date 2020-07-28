@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="banner.png" alt="">
+<img src="https://github.com/azeezat/azeezat/blob/master/banner.png" alt="">
 
 <!--
 **azeezat/azeezat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
