@@ -1,12 +1,9 @@
-### Hi there 👋
-
 <img src="https://github.com/azeezat/azeezat/blob/master/banner.png" alt="">
 
-<!--
+### Hi! I'm Azeezat! 👋
+
 **azeezat/azeezat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+My name is Azeezat Raheem. I am a fullstack software engineer with over three years work experience. I was born in Nigeria. I had my Bachelor's in Systems Engineering from the University of Lagos, Nigeria.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
