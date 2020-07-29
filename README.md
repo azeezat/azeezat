@@ -8,7 +8,6 @@ My name is Azeezat Raheem. I am a fullstack software engineer with over three ye
                                                                                 
 - 🔭 I’m currently working on a software product in the Nigerian aviation sector.
 - 👯 I’m looking to collaborate on open source javascript projects.
-- 💼 I’m also available for React-Native and React Gigs.
 - 🤔 When I'm not coding, you'd find me mentoring someone who wants to learn how to code.
 - ✨ My primary software stacks are Javascript, Node, React and React-Native.
 - ⚡ Fun fact: I make some of the best attires in town.
