@@ -6,7 +6,7 @@ My name is Azeezat Raheem. I am a fullstack software engineer with over three ye
 
 <a href="https://thecodinghijabi.herokuapp.com/" target="_blank"><img align="right" width="150" height="150" src="https://media.giphy.com/media/1dOJslxDpf11jEiyhu/giphy.gif"></a>
                                                                                 
-- 🔭 I’m currently working on a software product in the Nigerian aviation sector.
+- 🔭 I’m currently working on a software product in the aviation sector.
 - 👯 I’m looking to collaborate on open source javascript projects.
 - 💼 I’m also available for React-Native and React Gigs.
 - 🤔 When I'm not coding, you'd find me mentoring someone who wants to learn how to code.
