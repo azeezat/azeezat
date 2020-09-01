@@ -4,7 +4,7 @@
 
 My name is Azeezat Raheem. I am a fullstack software engineer with over three years work experience. I was born in Nigeria. I had my Bachelor's in Systems Engineering from the University of Lagos, Nigeria.
 
-<a href="https://thecodinghijabi.herokuapp.com/" target="_blank"><img align="right" width="150" height="150" src="https://media.giphy.com/media/1dOJslxDpf11jEiyhu/giphy.gif"></a>
+<a href="http://thecodinghijabi.me/" target="_blank"><img align="right" width="150" height="150" src="https://media.giphy.com/media/1dOJslxDpf11jEiyhu/giphy.gif"></a>
                                                                                 
 - 🔭 I’m currently working on a software product in the aviation sector.
 - 👯 I’m looking to collaborate on open source javascript projects.
