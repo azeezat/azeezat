@@ -1,6 +1,6 @@
 <img src="https://github.com/azeezat/azeezat/blob/master/banner.png" alt="">
 
-### Hi! I'm Azeezat! 👋 👋 👋
+### Hi! I'm Azeezat! 👋
 
 My name is Azeezat Raheem. I am a fullstack software engineer with over three years work experience. I was born in Nigeria. I had my Bachelor's in Systems Engineering from the University of Lagos, Nigeria.
 
