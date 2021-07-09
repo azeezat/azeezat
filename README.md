@@ -12,5 +12,5 @@ My name is Azeezat Raheem. I am a fullstack software engineer with over three ye
 - ✨ My primary software stacks are Javascript, Node, React and React-Native.
 - ⚡ Fun fact: I make some of the best attires in town.
 - 💬 I publish some of my thoughts on my <a href="https://thecodinghijabi.netlify.app/blog" target="_blank">blog</a>
-- 📫 How to reach me: aziziraheem@hotmail.com
+- 📫 How to reach me: <a href="aziziraheem@hotmail.com">aziziraheem@hotmail.com</a>
 - 😄 Pronouns: She/Her
