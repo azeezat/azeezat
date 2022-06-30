@@ -1,4 +1,4 @@
-<img src="https://github.com/azeezat/azeezat/blob/master/banner.png" alt="">
+<!-- <img src="https://github.com/azeezat/azeezat/blob/master/banner.png" alt=""> -->
 
 ### Hi! I'm Azeezat! 👋
 
