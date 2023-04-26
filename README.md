@@ -15,4 +15,4 @@ My name is Azeezat Raheem. I am a fullstack software engineer with over three ye
 - 😄 Pronouns: She/Her
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/azeezat/langs?time_range=one_year&use_percent=True&include_private=True&theme=bright_lights)
-[![trophy](https://github-profile-trophy.vercel.app/?username=azeezat&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=azeezat)](https://github.com/ryo-ma/github-profile-trophy)
